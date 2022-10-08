@@ -1,0 +1,31 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+.fs-16 {
+    font-size: 16px
+}
+.fs-13 {
+    font-size: 13px;
+}
+.fs-21 {
+    font-size: 21px;
+}
+.colorcard1{
+    color:#212529
+}
+.colorcard2{
+    color: #707070;
+}
+.colorcard3{
+    color: #28A745;
+}
+.logo {
+    width: 100px
+}
+.colorgreen {
+    background-color: #28A745;
+}
